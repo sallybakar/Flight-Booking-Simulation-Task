@@ -1,5 +1,5 @@
 # Flight-Booking-Simulation
- ## [Simulate a flight booking following the steps thus:](Simulate a flight booking following the steps thus:)
+ ## Simulate a flight booking following the steps thus:
   -The user will be given available airlines, 
   -Check each destination,  
   -Each destination will have respective cost
