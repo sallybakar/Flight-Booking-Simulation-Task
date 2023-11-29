@@ -1,4 +1,4 @@
-# Flight-Booking-Simulation
+# Flight-Booking-Simulation-Task
  ## Simulate a flight booking following the steps thus:
   -The user will be given available airlines, 
   -Check each destination,  
