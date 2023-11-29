@@ -7,3 +7,4 @@
   -Check the timeline of each trip 
   -Check if they have tickets and assign a space for them 
   -Ask acct balance -Check if their airline exist
+  🙂
